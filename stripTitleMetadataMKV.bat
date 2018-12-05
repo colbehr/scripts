@@ -1,0 +1,1 @@
+for %%f in (.\*) do "C:/Program Files/MKVToolNix\mkvpropedit.exe" "%%f" --edit info --set "title= "

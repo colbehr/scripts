@@ -1,0 +1,3 @@
+"C:/Program Files/MKVToolNix\mkvpropedit.exe" "{FILE NAME}" --edit info --set "title= "
+
+ffmpeg -i "{FILE NAME}" -map_metadata -1 -codec copy  out.mp4

@@ -1,0 +1,1 @@
+for %%f in (.\*) do "C:/Program Files/MKVToolNix\mkvinfo.exe" "%%f"
